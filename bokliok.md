@@ -7,4 +7,7 @@ title: 目錄
 ---
 
 ## Bo̍k-lio̍k 目錄
-- [冊皮](./chheh/?page=1){:target="_blank"}
+- [序言](./chheh/?page=2){:target="_blank"}
+- [臺灣語羅馬字の讀方](./chheh/?page=3){:target="_blank"}
+- [漢字索引](./chheh/?page=6){:target="_blank"}
+- [羅馬字索引](./chheh/?page=23){:target="_blank"}
